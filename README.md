@@ -1,1 +1,1 @@
-
+This is the code for the paper "Song Chen & Hai Liao (2022) BERT-Log: Anomaly Detection for System Logs Based on Pre-trained Language Model, Applied Artificial Intelligence, 36:1, 2145642, DOI: 10.1080/08839514.2022.2145642".
